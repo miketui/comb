@@ -1,0 +1,425 @@
+relative_path,bytes,extension
+2026 comb/Archive.zip,11055775,.zip
+2026 comb/Backup secondary /00_FILE_INVENTORY.csv,5951,.csv
+2026 comb/Backup secondary /00_README_START_HERE.md,1595,.md
+2026 comb/Backup secondary /00_SOURCE_OF_TRUTH_MANIFEST.json,1028,.json
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/A_System_Docs/01_TAYLKOMB_Corrected_System_PRD_v1.md,13935,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/A_System_Docs/02_TAYLKOMB_Corrected_Architecture_Overview_v1.md,7908,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/A_System_Docs/03_TAYLKOMB_Corrected_Interface_Spec_v1.md,8362,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/A_System_Docs/04_TAYLKOMB_Corrected_Locking_Mechanism_Spec_v1.md,8959,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/A_System_Docs/05_TAYLKOMB_Manufacturing_Simplification_Brief_v1.md,5106,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/B_CAD_Control_Docs/06_TAYLKOMB_Part_Revision_Matrix_v1.md,4873,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/B_CAD_Control_Docs/07_TAYLKOMB_Fit_Tolerance_Test_Handoff_Combined_v1.md,10331,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/build123d/button_detent_module.py,5188,.py
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/build123d/comb_family_corrected.py,5935,.py
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/build123d/fit_coupon_male_tang.py,2105,.py
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/build123d/fit_coupon_receiver.py,3214,.py
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/build123d/fit_coupons.py,6935,.py
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/build123d/handle_family_corrected.py,5928,.py
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/build123d/main_comb_master_tang.py,5446,.py
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/build123d/shared_receiver_core.py,7441,.py
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/openscad/TAYLKOMB_Comb_Extensions_Corrected.scad,9337,.scad
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/openscad/TAYLKOMB_Lock_Corrected_v1.scad,17535,.scad
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/openscad/TC-002_narrow_comb_corrected.scad,3686,.scad
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/C_CAD_Scripts/openscad/TC-003_wide_comb_corrected.scad,3200,.scad
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/D_Output_Plans/08_TAYLKOMB_Output_Export_Plan_v1.md,4446,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/D_Output_Plans/08_TAYLKOMB_Output_Export_Plans_v1.md,3865,.md
+2026 comb/Backup secondary /01_engineering_source/CORRECTED_PACKAGE/README.md,4192,.md
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/01_Corrected_Architecture_Overview.md,1472,.md
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/02_Corrected_Interface_Spec.md,1307,.md
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/03_Corrected_Lock_Spec.md,1305,.md
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/04_Corrected_Family_Revision_Matrix.csv,2094,.csv
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/05_Corrected_Test_Plan.md,1158,.md
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/06_Corrected_CAD_Script_Model_Set.md,977,.md
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/07_Corrected_Render_Export_Package.md,743,.md
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/08_Deliverables_Manifest.json,1126,.json
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/09_Superseded_Assumptions.md,533,.md
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/README_PACKAGE.txt,693,.txt
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/TAYLKOMB_Corrected_Master_PRD_v1.docx,39954,.docx
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/TAYLKOMB_Corrected_Master_PRD_v1.pdf,116494,.pdf
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/assets/taylkomb_corrected_architecture.svg,2465,.svg
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/cadquery/button_detent_module.py,768,.py
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/cadquery/fit_coupon_male_tang.py,510,.py
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/cadquery/fit_coupon_receiver_nominal.py,733,.py
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/cadquery/fit_coupon_receiver_relief.py,731,.py
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/cadquery/main_comb_master_tang.py,1494,.py
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/cadquery/shared_receiver_core.py,1708,.py
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/openscad/lock_stack_visual.scad,269,.scad
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/openscad/main_comb_tang_visual.scad,478,.scad
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/cad_scripts/openscad/receiver_core_visual.scad,396,.scad
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/rendered/TAYLKOMB_Corrected_Master_PRD_v1.pdf,116494,.pdf
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/rendered/page-1.png,111559,.png
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/rendered/page-2.png,369588,.png
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/rendered/page-3.png,348781,.png
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/rendered/page-4.png,294040,.png
+2026 comb/Backup secondary /02_presentation_support/TAYLKOMB_Corrected_Package/run_local_exports.sh,878,.sh
+2026 comb/Black Combs.png,1996836,.png
+2026 comb/Comb Main.stl,3497984,.stl
+2026 comb/Comb Narrow.stl,1770384,.stl
+2026 comb/Comb Wide.stl,917484,.stl
+2026 comb/Comb render.mp4,3224082,.mp4
+2026 comb/Double Handle.pdf,174252,.pdf
+2026 comb/Double Handle.stl,241784,.stl
+2026 comb/Finalized/Archive.zip,15878677,.zip
+2026 comb/Finalized/DWG-001-Tang.pdf,4880,.pdf
+2026 comb/Finalized/README 6.md,6853,.md
+2026 comb/Finalized/TAYLKOMB Manufacturing Readiness Checklist.pdf,131440,.pdf
+2026 comb/Finalized/TAYLKOMB Production Drawing Strategy & CAD Reality Check.pdf,109115,.pdf
+2026 comb/Finalized/TK-FIT-001_Fit_Coupon_Test_Protocol.md,15184,.md
+2026 comb/Finalized/TK-HW-001_Hardware_BOM.md,9310,.md
+2026 comb/Finalized/TK-MAT-001_Material_Finish_Spec.md,10254,.md
+2026 comb/Finalized/TK-MFG-001_Manufacturing_Readiness_Assessment.md,12306,.md
+2026 comb/Finalized/TK-TOL-001_Tolerance_Specification.md,8015,.md
+2026 comb/Finalized/Taylkomb MFG CAD & Drawings - Tasklet.pdf,41351,.pdf
+2026 comb/Finalized/View%2520Sheet-Comb.pdf,18429305,.pdf
+2026 comb/Finalized/files 24/TAYLKOMB_Detailed_Next_Steps.md,14001,.md
+2026 comb/Finalized/files 24/button_production.py,5469,.py
+2026 comb/Finalized/files 24/receiver_production.py,10276,.py
+2026 comb/Finalized/files 24/tang_production.py,7434,.py
+2026 comb/Finalized/final_zip/A_System_Docs/TAYLKOMB_Quick_Reference.md,869,.md
+2026 comb/Finalized/final_zip/A_System_Docs/TAYLKOMB_System_Overview.md,1645,.md
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/button_detent_module.py,8447,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/drawing_sheet_generator.py,8894,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/exploded_assembly_generator.py,3783,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/fit_coupon_male_tang.py,6164,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/fit_coupon_receiver_nominal.py,5951,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/fit_coupon_receiver_relief.py,6471,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/lock_test_block.py,9260,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/main_comb_master_tang.py,9320,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/render_scene_generator.py,4222,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/section_view_generator.py,4123,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/shared_receiver_core.py,9828,.py
+2026 comb/Finalized/final_zip/B_CAD_Models/scripts/taylkomb_all.scad,10446,.scad
+2026 comb/Finalized/final_zip/B_CAD_Models/source_scripts/TAYLKOMB_Lock_Corrected_v1.scad,17535,.scad
+2026 comb/Finalized/final_zip/B_CAD_Models/source_scripts/lock_stack_visual.scad,269,.scad
+2026 comb/Finalized/final_zip/B_CAD_Models/source_scripts/main_comb_tang_visual.scad,478,.scad
+2026 comb/Finalized/final_zip/B_CAD_Models/source_scripts/receiver_core_visual.scad,396,.scad
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TC-001_Main_Comb.step,748942,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TC-001_Main_Comb_CORRECTED.step,748942,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TC-002_Narrow_Comb.step,534177,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TC-002_Narrow_Comb_CORRECTED.step,1140720,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TC-003_Wide_Comb.step,328294,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TC-003_Wide_Comb_CORRECTED.step,188867,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TH-001_Double_Handle.step,132784,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TH-001_Double_Handle_CORRECTED.step,24964,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TH-002_Flat_Handle.step,213405,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TH-002_Flat_Handle_CORRECTED.step,69666,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TH-003_Round_Handle.step,77167,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TH-003_Round_Handle_CORRECTED.step,28342,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TK-FIT_Female_Receiver_Relief.step,108478,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TK-MASTER_Button_Detent_Subassembly_CONVERTED.step,435493,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TK-MASTER_Button_Detent_ZOO.step,512681,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TK-MASTER_Passive_Male_Tang_CONVERTED.step,949901,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TK-MASTER_Passive_Male_Tang_ZOO.step,21218,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TK-MASTER_Shared_Female_Receiver_CONVERTED.step,5292855,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/step/TK-MASTER_Shared_Female_Receiver_ZOO.step,15767,.step
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TC-001_Main_Comb_CORRECTED.stl,279231,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TC-002_Narrow_Comb_CORRECTED.stl,158290,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TC-003_Wide_Comb_CORRECTED.stl,132885,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TH-001_Double_Handle_CORRECTED.stl,58968,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TH-002_Flat_Handle_CORRECTED.stl,114764,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TH-003_Round_Handle_CORRECTED.stl,420459,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TK-FIT_Female_Receiver_Nominal.stl,52307,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TK-FIT_Female_Receiver_Relief.stl,18972,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TK-FIT_Lock_Test_Block.stl,239922,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TK-FIT_Male_Tang_Coupon.stl,1755,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TK-MASTER_Passive_Male_Tang.stl,188083,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/stl/TK-MASTER_Shared_Female_Receiver.stl,53196,.stl
+2026 comb/Finalized/final_zip/B_CAD_Models/zoo_lock_response.json,770,.json
+2026 comb/Finalized/final_zip/B_CAD_Models/zoo_receiver_response.json,970,.json
+2026 comb/Finalized/final_zip/B_CAD_Models/zoo_tang_response.json,969,.json
+2026 comb/Finalized/final_zip/C_Specs/TAYLKOMB_Corrected_Architecture_Overview_v2.md,10472,.md
+2026 comb/Finalized/final_zip/C_Specs/TAYLKOMB_Corrected_Deliverables_Manifest_v2.md,9050,.md
+2026 comb/Finalized/final_zip/C_Specs/TAYLKOMB_Corrected_Family_Revision_Matrix_v2.md,8332,.md
+2026 comb/Finalized/final_zip/C_Specs/TAYLKOMB_Corrected_Interface_Spec_v2.md,10450,.md
+2026 comb/Finalized/final_zip/C_Specs/TAYLKOMB_Corrected_Lock_Spec_v2.md,9119,.md
+2026 comb/Finalized/final_zip/C_Specs/TAYLKOMB_Corrected_Test_Plan_v2.md,13086,.md
+2026 comb/Finalized/final_zip/C_Visual_Package/renders/Black Combs.png,1996836,.png
+2026 comb/Finalized/final_zip/C_Visual_Package/renders/Metal Attachments.png,1697946,.png
+2026 comb/Finalized/final_zip/D_Fit_Coupons/TK-FIT_Female_Receiver_Nominal.step,5431228,.step
+2026 comb/Finalized/final_zip/D_Fit_Coupons/TK-FIT_Female_Receiver_Relief.step,108478,.step
+2026 comb/Finalized/final_zip/D_Fit_Coupons/TK-FIT_Lock_Test_Block.step,6534656,.step
+2026 comb/Finalized/final_zip/D_Fit_Coupons/TK-FIT_Male_Tang_Coupon.step,1093237,.step
+2026 comb/Finalized/final_zip/E_Export_Package/README.md,1330,.md
+2026 comb/Finalized/final_zip/E_Export_Package/TAYLKOMB_Export_Manifest.json,4280,.json
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-001_Main_Comb_Connector.pdf,41549,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-002_Shared_Female_Receiver.pdf,42758,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-003_Button_Detent_Subassembly.pdf,42397,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-004_Narrow_Comb.pdf,38877,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-005_Wide_Comb.pdf,39102,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-006_Double_Handle.pdf,35604,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-007_Flat_Handle.pdf,35647,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-008_Round_Handle.pdf,39668,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-009_Exploded_Assembly.pdf,50790,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-010_Lock_Detail.pdf,42347,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/drawings/DWG-011_Fit_Coupon.pdf,51020,.pdf
+2026 comb/Finalized/final_zip/E_Visuals/renders/00_TC-001_Main_Comb.png,487927,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/01_Passive_Male_Tang.png,158669,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/01_TC-002_Narrow_Comb.png,609752,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/02_Shared_Female_Receiver.png,316863,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/02_TC-003_Wide_Comb.png,499181,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/03_Button_Detent_Subassembly.png,408963,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/03_TH-001_Double_Handle.png,213915,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/04_Assembly_Closed.png,145710,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/04_TH-002_Flat_Handle.png,267628,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/05_Assembly_Exploded.png,139284,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/05_TH-003_Round_Handle.png,391925,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/06_Assembly_Section.png,144081,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/06_Passive_Male_Tang.png,322237,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/07_Comb_Extension_Demo.png,231543,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/07_Shared_Female_Receiver.png,230666,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/08_Fit_Coupon_Tang.png,127108,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/08_Five_Up_Overview.png,372950,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/09_Fit_Coupon_Receiver.png,264440,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/09_Fit_Coupon_Tang.png,175516,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/10_Fit_Coupon_Receiver.png,222490,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/10_Fit_Coupon_Relief.png,195155,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/11_Fit_Test_Pair.png,290224,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/11_Lock_Test_Block.png,283477,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/12_Lock_Sequence.png,151631,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/13_Lock_CrossSection.png,174987,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/14_Contact_Sheet_Overview.png,1266837,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/15_Exploded_Assembly.png,173183,.png
+2026 comb/Finalized/final_zip/E_Visuals/renders/16_Docked_Configurations.png,63480,.png
+2026 comb/Finalized/final_zip/TAYLKOMB_Final_Handoff_Manifest.md,10236,.md
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/FreeCAD/TC_001_rebuild.py,1670,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/FreeCAD/TC_002_rebuild.py,1258,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/FreeCAD/TC_003_rebuild.py,1188,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/FreeCAD/TH_001_rebuild.py,1666,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/FreeCAD/TH_002_rebuild.py,1484,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/FreeCAD/TH_003_rebuild.py,1440,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/FreeCAD/TK_BTN_001_rebuild.py,1971,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/freecad_scripts/README_FreeCAD.md,1976,.md
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/freecad_scripts/TK_RECV_001_freecad.py,5749,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/freecad_scripts/TK_TANG_001_freecad.py,6764,.py
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TC_001_main_comb.scad,3419,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TC_002_narrow_comb.scad,2192,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TC_003_wide_comb.scad,2217,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TH_001_double_handle.scad,2313,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TH_002_flat_handle.scad,2183,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TH_003_round_handle.scad,1725,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TK_button_detent.scad,1758,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TK_common.scad,7446,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TK_fit_coupons.scad,3815,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TK_receiver_core.scad,616,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TK_system_assembly.scad,1648,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/openscad/TK_tang_passive.scad,589,.scad
+2026 comb/Finalized/taylkomb-mfg-package/A_CAD_Source/parameters.json,5835,.json
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TC-001-Main-Comb.step,1877160,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TC-002-Narrow-Comb.step,1815467,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TC-003-Wide-Comb.step,1447692,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TH-001-Double-Handle.step,5923307,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TH-002-Flat-Handle.step,7297235,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TH-003-Round-Handle.step,7013843,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TK-ASM-001-System-Assembly.step,9631470,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TK-BTN-001.step,9099764,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TK-RECV-001.step,2285376,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Converted/TK-TANG-001.step,9386892,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TC-001-Main-Comb.step,179263,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TC-002-Narrow-Comb.step,222145,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TC-003-Wide-Comb.step,118235,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TH-001-Double-Handle.step,147692,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TH-002-Flat-Handle.step,19753,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TH-003-Round-Handle.step,104364,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TK-BTN-001.step,147810,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TK-RECV-001.step,69710,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STEP_Parametric/TK-TANG-001.step,29083,.step
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TC-001-Main-Comb.stl,604955,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TC-002-Narrow-Comb.stl,581809,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TC-003-Wide-Comb.stl,468957,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TH-001-Double-Handle.stl,1947550,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TH-002-Flat-Handle.stl,2457069,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TH-003-Round-Handle.stl,2366650,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TK-ASM-001-System-Assembly.stl,3179520,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TK-BTN-001.stl,3111637,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TK-RECV-001.stl,762345,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/STL/TK-TANG-001.stl,3158902,.stl
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TC-001-Main-Comb.gltf,520973,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TC-002-Narrow-Comb.gltf,642752,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TC-003-Wide-Comb.gltf,337156,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TH-001-Double-Handle.gltf,371625,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TH-002-Flat-Handle.gltf,68672,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TH-003-Round-Handle.gltf,558800,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TK-BTN-001.gltf,1699567,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TK-RECV-001.gltf,254231,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/B_Geometry/glTF/TK-TANG-001.gltf,1106444,.gltf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-001-Tang.pdf,4880,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-002-Receiver.pdf,5292,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-003-Button-Detent.pdf,3930,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-004-TC-001.pdf,3954,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-005-TC-002.pdf,3825,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-006-TC-003.pdf,3745,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-007-TH-001.pdf,3422,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-008-TH-002.pdf,3438,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-009-TH-003.pdf,3432,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-010-System-Assembly.pdf,3838,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/C_Drawings/PDF/DWG-011-Interface-Detail.pdf,4558,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specifications/TK-HW-001-Hardware-BOM.pdf,6713,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specifications/TK-MAT-001-Material-Finish-Spec.pdf,6125,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specifications/TK-TOL-001-Tolerance-Stack-Up.pdf,5536,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-ASM-001-Assembly-Sequence.pdf,6922,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-CTF-001-Critical-Dimensions.pdf,5319,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-EQUIP-001-Test-Equipment.pdf,7360,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-FCAD-001-FreeCAD-Scripts.pdf,3666,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-FIT-001-Test-Data-Forms.pdf,6981,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-HW-002-Supplier-PartNumbers.pdf,5251,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-INSP-001-Inspection-Plan.pdf,6365,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-MAT-002-Material-Freeze.pdf,4501,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-PF-001-PressFit-Spec.pdf,5474,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-TEST-001-Chemical-Resistance.pdf,6077,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-TEST-002-Heat-Resistance.pdf,5712,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-TEST-003-UV-Resistance.pdf,6119,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/D_Specs/TK-WALL-001-Wall-Thickness.pdf,4510,.pdf
+2026 comb/Finalized/taylkomb-mfg-package/E_Fit_Coupons/STL/TK-FIT-001-All-Coupons.stl,4825650,.stl
+2026 comb/Finalized/taylkomb-mfg-package/README.md,6853,.md
+2026 comb/Finalized/taylkomb-mfg-package/TK-GAP-ANALYSIS-RevB.md,18872,.md
+2026 comb/Finalized/taylkomb-mfg-package/generate_drawings.py,50418,.py
+2026 comb/Finalized/taylkomb-mfg-package/generate_specs.py,27138,.py
+2026 comb/Finalized/taylkomb_interface_cross_section 2.svg,38704,.svg
+2026 comb/Finalized/taylkomb_mfg_readiness.jsx,58485,.jsx
+2026 comb/Flat Handle.pdf,135010,.pdf
+2026 comb/Flat Handle.stl,113084,.stl
+2026 comb/Main Comb.pdf,495309,.pdf
+2026 comb/Metal Attachments.png,1697946,.png
+2026 comb/Narrow Comb.pdf,321422,.pdf
+2026 comb/Round Comb Hande.pdf,149901,.pdf
+2026 comb/Round Handle.stl,236984,.stl
+2026 comb/TAYLKOMB_Final_Package/A_System_Docs/01_TAYLKOMB_Final_Merged_PRD_v2.md,21142,.md
+2026 comb/TAYLKOMB_Final_Package/A_System_Docs/02_TAYLKOMB_Architecture_Overview_v2.md,5272,.md
+2026 comb/TAYLKOMB_Final_Package/A_System_Docs/03_TAYLKOMB_Ergonomic_Durability_Spec_v1.md,5928,.md
+2026 comb/TAYLKOMB_Final_Package/A_System_Docs/04_Superseded_Assumptions.md,1427,.md
+2026 comb/TAYLKOMB_Final_Package/B_CAD_Control/05_Family_Revision_Matrix.csv,3221,.csv
+2026 comb/TAYLKOMB_Final_Package/B_CAD_Control/06_Fit_Coupon_Plan_and_Handoff_Checklist.md,4109,.md
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/build123d/button_detent_module.py,5188,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/build123d/comb_family_corrected.py,5935,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/build123d/handle_family_corrected.py,5928,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/build123d/main_comb_master_tang.py,5446,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/build123d/shared_receiver_core.py,7441,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/cadquery/button_detent_module.py,768,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/cadquery/fit_coupon_male_tang.py,510,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/cadquery/fit_coupon_receiver_nominal.py,733,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/cadquery/fit_coupon_receiver_relief.py,731,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/cadquery/main_comb_master_tang.py,1494,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/cadquery/shared_receiver_core.py,1785,.py
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/openscad/TAYLKOMB_Lock_Corrected_v1.scad,17535,.scad
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/openscad/lock_stack_visual.scad,269,.scad
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/openscad/main_comb_tang_visual.scad,478,.scad
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/openscad/receiver_core_visual.scad,396,.scad
+2026 comb/TAYLKOMB_Final_Package/C_CAD_Scripts/run_exports.sh,1944,.sh
+2026 comb/TAYLKOMB_Final_Package/D_Output_Plans/07_Output_Export_Plans_v2.md,2655,.md
+2026 comb/TAYLKOMB_Final_Package/E_Reference/Force_Target_Resolution.md,2068,.md
+2026 comb/TAYLKOMB_Final_Package/E_Reference/taylkomb_corrected_architecture.svg,2465,.svg
+2026 comb/TAYLKOMB_Final_Package/README.md,4760,.md
+2026 comb/TC-001_Main_Comb.step,748942,.step
+2026 comb/TC-002_Narrow_Comb.step,534177,.step
+2026 comb/TC-003_Wide_Comb.step,328294,.step
+2026 comb/TH-001_Double_Handle.step,132784,.step
+2026 comb/TH-002_Flat_Handle.step,213405,.step
+2026 comb/TH-003_Round_Handle.step,77167,.step
+2026 comb/Wide Comb.pdf,216433,.pdf
+2026 comb/final_zip/A_System_Docs/TAYLKOMB_Quick_Reference.md,869,.md
+2026 comb/final_zip/A_System_Docs/TAYLKOMB_System_Overview.md,1645,.md
+2026 comb/final_zip/B_CAD_Models/scripts/button_detent_module.py,8447,.py
+2026 comb/final_zip/B_CAD_Models/scripts/drawing_sheet_generator.py,8894,.py
+2026 comb/final_zip/B_CAD_Models/scripts/exploded_assembly_generator.py,3783,.py
+2026 comb/final_zip/B_CAD_Models/scripts/fit_coupon_male_tang.py,6164,.py
+2026 comb/final_zip/B_CAD_Models/scripts/fit_coupon_receiver_nominal.py,5951,.py
+2026 comb/final_zip/B_CAD_Models/scripts/fit_coupon_receiver_relief.py,6471,.py
+2026 comb/final_zip/B_CAD_Models/scripts/lock_test_block.py,9260,.py
+2026 comb/final_zip/B_CAD_Models/scripts/main_comb_master_tang.py,9320,.py
+2026 comb/final_zip/B_CAD_Models/scripts/render_scene_generator.py,4222,.py
+2026 comb/final_zip/B_CAD_Models/scripts/section_view_generator.py,4123,.py
+2026 comb/final_zip/B_CAD_Models/scripts/shared_receiver_core.py,9828,.py
+2026 comb/final_zip/B_CAD_Models/scripts/taylkomb_all.scad,10446,.scad
+2026 comb/final_zip/B_CAD_Models/source_scripts/TAYLKOMB_Lock_Corrected_v1.scad,17535,.scad
+2026 comb/final_zip/B_CAD_Models/source_scripts/lock_stack_visual.scad,269,.scad
+2026 comb/final_zip/B_CAD_Models/source_scripts/main_comb_tang_visual.scad,478,.scad
+2026 comb/final_zip/B_CAD_Models/source_scripts/receiver_core_visual.scad,396,.scad
+2026 comb/final_zip/B_CAD_Models/step/TC-001_Main_Comb.step,748942,.step
+2026 comb/final_zip/B_CAD_Models/step/TC-001_Main_Comb_CORRECTED.step,748942,.step
+2026 comb/final_zip/B_CAD_Models/step/TC-002_Narrow_Comb.step,534177,.step
+2026 comb/final_zip/B_CAD_Models/step/TC-002_Narrow_Comb_CORRECTED.step,1140720,.step
+2026 comb/final_zip/B_CAD_Models/step/TC-003_Wide_Comb.step,328294,.step
+2026 comb/final_zip/B_CAD_Models/step/TC-003_Wide_Comb_CORRECTED.step,188867,.step
+2026 comb/final_zip/B_CAD_Models/step/TH-001_Double_Handle.step,132784,.step
+2026 comb/final_zip/B_CAD_Models/step/TH-001_Double_Handle_CORRECTED.step,24964,.step
+2026 comb/final_zip/B_CAD_Models/step/TH-002_Flat_Handle.step,213405,.step
+2026 comb/final_zip/B_CAD_Models/step/TH-002_Flat_Handle_CORRECTED.step,69666,.step
+2026 comb/final_zip/B_CAD_Models/step/TH-003_Round_Handle.step,77167,.step
+2026 comb/final_zip/B_CAD_Models/step/TH-003_Round_Handle_CORRECTED.step,28342,.step
+2026 comb/final_zip/B_CAD_Models/step/TK-FIT_Female_Receiver_Relief.step,108478,.step
+2026 comb/final_zip/B_CAD_Models/step/TK-MASTER_Button_Detent_Subassembly_CONVERTED.step,435493,.step
+2026 comb/final_zip/B_CAD_Models/step/TK-MASTER_Button_Detent_ZOO.step,512681,.step
+2026 comb/final_zip/B_CAD_Models/step/TK-MASTER_Passive_Male_Tang_CONVERTED.step,949901,.step
+2026 comb/final_zip/B_CAD_Models/step/TK-MASTER_Passive_Male_Tang_ZOO.step,21218,.step
+2026 comb/final_zip/B_CAD_Models/step/TK-MASTER_Shared_Female_Receiver_CONVERTED.step,5292855,.step
+2026 comb/final_zip/B_CAD_Models/step/TK-MASTER_Shared_Female_Receiver_ZOO.step,15767,.step
+2026 comb/final_zip/B_CAD_Models/stl/TC-001_Main_Comb_CORRECTED.stl,279231,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TC-002_Narrow_Comb_CORRECTED.stl,158290,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TC-003_Wide_Comb_CORRECTED.stl,132885,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TH-001_Double_Handle_CORRECTED.stl,58968,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TH-002_Flat_Handle_CORRECTED.stl,114764,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TH-003_Round_Handle_CORRECTED.stl,420459,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TK-FIT_Female_Receiver_Nominal.stl,52307,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TK-FIT_Female_Receiver_Relief.stl,18972,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TK-FIT_Lock_Test_Block.stl,239922,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TK-FIT_Male_Tang_Coupon.stl,1755,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TK-MASTER_Passive_Male_Tang.stl,188083,.stl
+2026 comb/final_zip/B_CAD_Models/stl/TK-MASTER_Shared_Female_Receiver.stl,53196,.stl
+2026 comb/final_zip/B_CAD_Models/zoo_lock_response.json,770,.json
+2026 comb/final_zip/B_CAD_Models/zoo_receiver_response.json,970,.json
+2026 comb/final_zip/B_CAD_Models/zoo_tang_response.json,969,.json
+2026 comb/final_zip/C_Specs/TAYLKOMB_Corrected_Architecture_Overview_v2.md,10472,.md
+2026 comb/final_zip/C_Specs/TAYLKOMB_Corrected_Deliverables_Manifest_v2.md,9050,.md
+2026 comb/final_zip/C_Specs/TAYLKOMB_Corrected_Family_Revision_Matrix_v2.md,8332,.md
+2026 comb/final_zip/C_Specs/TAYLKOMB_Corrected_Interface_Spec_v2.md,10450,.md
+2026 comb/final_zip/C_Specs/TAYLKOMB_Corrected_Lock_Spec_v2.md,9119,.md
+2026 comb/final_zip/C_Specs/TAYLKOMB_Corrected_Test_Plan_v2.md,13086,.md
+2026 comb/final_zip/C_Visual_Package/renders/Black Combs.png,1996836,.png
+2026 comb/final_zip/C_Visual_Package/renders/Metal Attachments.png,1697946,.png
+2026 comb/final_zip/D_Fit_Coupons/TK-FIT_Female_Receiver_Nominal.step,5431228,.step
+2026 comb/final_zip/D_Fit_Coupons/TK-FIT_Female_Receiver_Relief.step,108478,.step
+2026 comb/final_zip/D_Fit_Coupons/TK-FIT_Lock_Test_Block.step,6534656,.step
+2026 comb/final_zip/D_Fit_Coupons/TK-FIT_Male_Tang_Coupon.step,1093237,.step
+2026 comb/final_zip/E_Export_Package/README.md,1330,.md
+2026 comb/final_zip/E_Export_Package/TAYLKOMB_Export_Manifest.json,4280,.json
+2026 comb/final_zip/E_Visuals/drawings/DWG-001_Main_Comb_Connector.pdf,41549,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-002_Shared_Female_Receiver.pdf,42758,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-003_Button_Detent_Subassembly.pdf,42397,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-004_Narrow_Comb.pdf,38877,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-005_Wide_Comb.pdf,39102,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-006_Double_Handle.pdf,35604,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-007_Flat_Handle.pdf,35647,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-008_Round_Handle.pdf,39668,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-009_Exploded_Assembly.pdf,50790,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-010_Lock_Detail.pdf,42347,.pdf
+2026 comb/final_zip/E_Visuals/drawings/DWG-011_Fit_Coupon.pdf,51020,.pdf
+2026 comb/final_zip/E_Visuals/renders/00_TC-001_Main_Comb.png,487927,.png
+2026 comb/final_zip/E_Visuals/renders/01_Passive_Male_Tang.png,158669,.png
+2026 comb/final_zip/E_Visuals/renders/01_TC-002_Narrow_Comb.png,609752,.png
+2026 comb/final_zip/E_Visuals/renders/02_Shared_Female_Receiver.png,316863,.png
+2026 comb/final_zip/E_Visuals/renders/02_TC-003_Wide_Comb.png,499181,.png
+2026 comb/final_zip/E_Visuals/renders/03_Button_Detent_Subassembly.png,408963,.png
+2026 comb/final_zip/E_Visuals/renders/03_TH-001_Double_Handle.png,213915,.png
+2026 comb/final_zip/E_Visuals/renders/04_Assembly_Closed.png,145710,.png
+2026 comb/final_zip/E_Visuals/renders/04_TH-002_Flat_Handle.png,267628,.png
+2026 comb/final_zip/E_Visuals/renders/05_Assembly_Exploded.png,139284,.png
+2026 comb/final_zip/E_Visuals/renders/05_TH-003_Round_Handle.png,391925,.png
+2026 comb/final_zip/E_Visuals/renders/06_Assembly_Section.png,144081,.png
+2026 comb/final_zip/E_Visuals/renders/06_Passive_Male_Tang.png,322237,.png
+2026 comb/final_zip/E_Visuals/renders/07_Comb_Extension_Demo.png,231543,.png
+2026 comb/final_zip/E_Visuals/renders/07_Shared_Female_Receiver.png,230666,.png
+2026 comb/final_zip/E_Visuals/renders/08_Fit_Coupon_Tang.png,127108,.png
+2026 comb/final_zip/E_Visuals/renders/08_Five_Up_Overview.png,372950,.png
+2026 comb/final_zip/E_Visuals/renders/09_Fit_Coupon_Receiver.png,264440,.png
+2026 comb/final_zip/E_Visuals/renders/09_Fit_Coupon_Tang.png,175516,.png
+2026 comb/final_zip/E_Visuals/renders/10_Fit_Coupon_Receiver.png,222490,.png
+2026 comb/final_zip/E_Visuals/renders/10_Fit_Coupon_Relief.png,195155,.png
+2026 comb/final_zip/E_Visuals/renders/11_Fit_Test_Pair.png,290224,.png
+2026 comb/final_zip/E_Visuals/renders/11_Lock_Test_Block.png,283477,.png
+2026 comb/final_zip/E_Visuals/renders/12_Lock_Sequence.png,151631,.png
+2026 comb/final_zip/E_Visuals/renders/13_Lock_CrossSection.png,174987,.png
+2026 comb/final_zip/E_Visuals/renders/14_Contact_Sheet_Overview.png,1266837,.png
+2026 comb/final_zip/E_Visuals/renders/15_Exploded_Assembly.png,173183,.png
+2026 comb/final_zip/E_Visuals/renders/16_Docked_Configurations.png,63480,.png
+2026 comb/final_zip/TAYLKOMB_Final_Handoff_Manifest.md,10236,.md

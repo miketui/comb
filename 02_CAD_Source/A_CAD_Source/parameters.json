@@ -1,0 +1,184 @@
+{
+  "project": "TAYLKOMB Modular Hair Tool System",
+  "document": "TK-PARAM-001 Rev A",
+  "units": "mm",
+  "date": "2026-04-02",
+  "confidential": "TAYLKOMB LLC - Patent Pending",
+
+  "interface": {
+    "tang": {
+      "diameter": 10.00,
+      "length": 45.00,
+      "tip_chamfer": 1.00,
+      "tip_chamfer_angle": 45,
+      "root_fillet": 0.50,
+      "ball_detent_center_from_tip": 35.00,
+      "ball_detent_groove_width": 3.20,
+      "ball_detent_groove_depth": 1.50,
+      "ball_detent_groove_radius": 1.60,
+      "surface_finish_Ra": 0.8,
+      "material_options": ["316L Stainless", "304 Stainless"],
+      "preferred_material": "316L Stainless"
+    },
+    "receiver": {
+      "bore_diameter": 10.10,
+      "bore_depth": 40.00,
+      "wall_thickness": 2.50,
+      "outer_diameter": 15.10,
+      "ball_bore_diameter": 3.30,
+      "ball_bore_position_from_mouth": 10.00,
+      "spring_pocket_diameter": 3.60,
+      "spring_pocket_depth": 10.00,
+      "button_bore_diameter": 4.20,
+      "button_bore_depth": 12.00,
+      "mouth_chamfer": 0.50,
+      "surface_finish_bore_Ra": 0.8,
+      "surface_finish_outer_Ra": 1.6,
+      "material_options": ["316L Stainless", "304 Stainless"],
+      "preferred_material": "316L Stainless"
+    },
+    "detent": {
+      "ball_diameter": 3.175,
+      "ball_grade": "G25",
+      "ball_material": "AISI 52100 Chrome Steel",
+      "spring_outer_diameter": 3.00,
+      "spring_wire_diameter": 0.30,
+      "spring_free_length": 10.00,
+      "spring_compressed_length": 6.00,
+      "spring_rate_N_per_mm": 0.45,
+      "button_diameter": 4.00,
+      "button_length": 8.00,
+      "button_head_diameter": 6.00,
+      "button_head_height": 1.50,
+      "button_travel": 2.00,
+      "button_material_options": ["POM (Delrin)", "PA66-GF15"],
+      "retention_force_target_N": 8.0,
+      "retention_force_tolerance_N": 2.0,
+      "release_force_target_N": 3.0,
+      "insertion_force_target_N": 5.0
+    },
+    "magnet": {
+      "enabled": true,
+      "type": "N52 NdFeB",
+      "diameter": 6.00,
+      "thickness": 2.00,
+      "coating": "Ni-Cu-Ni",
+      "pocket_diameter": 6.10,
+      "pocket_depth": 2.10,
+      "pocket_count_tang": 1,
+      "pocket_count_receiver": 1,
+      "pocket_position_from_tip": 20.00,
+      "production_intent": "TBD - proto-only or production"
+    },
+    "clearances": {
+      "tang_receiver_diametral": 0.10,
+      "ball_bore_ball_clearance": 0.125,
+      "button_bore_button_clearance": 0.20,
+      "nominal_interference_note": "Ball protrusion into tang groove provides retention"
+    }
+  },
+
+  "combs": {
+    "TC-001": {
+      "name": "Main Comb",
+      "overall_length": 192.00,
+      "body_width": 40.00,
+      "body_thickness": 6.00,
+      "tooth_count_fine": 28,
+      "tooth_count_coarse": 14,
+      "tooth_spacing_fine": 1.80,
+      "tooth_spacing_coarse": 3.60,
+      "tooth_length_fine": 28.00,
+      "tooth_length_coarse": 22.00,
+      "tooth_thickness": 1.00,
+      "tooth_taper_angle": 3,
+      "spine_height": 5.00,
+      "receiver_integration": "molded-in insert",
+      "material_options": ["PA66-GF30", "PA12-CF"],
+      "color": "Black (RAL/Pantone TBD)"
+    },
+    "TC-002": {
+      "name": "Narrow Comb",
+      "overall_length": 178.00,
+      "body_width": 32.00,
+      "body_thickness": 5.00,
+      "tooth_count_fine": 36,
+      "tooth_spacing_fine": 1.20,
+      "tooth_length_fine": 25.00,
+      "tooth_thickness": 0.80,
+      "tooth_taper_angle": 2,
+      "spine_height": 4.00,
+      "receiver_integration": "molded-in insert",
+      "material_options": ["PA66-GF30", "PA12-CF"],
+      "color": "Black (RAL/Pantone TBD)"
+    },
+    "TC-003": {
+      "name": "Wide Comb",
+      "overall_length": 205.00,
+      "body_width": 55.00,
+      "body_thickness": 7.00,
+      "tooth_count_coarse": 18,
+      "tooth_spacing_coarse": 5.00,
+      "tooth_length_coarse": 30.00,
+      "tooth_thickness": 1.80,
+      "tooth_taper_angle": 2,
+      "spine_height": 6.00,
+      "receiver_integration": "molded-in insert",
+      "material_options": ["PA66-GF30", "PA12-CF"],
+      "color": "Black (RAL/Pantone TBD)"
+    }
+  },
+
+  "handles": {
+    "TH-001": {
+      "name": "Double Handle",
+      "overall_length": 125.00,
+      "grip_diameter": 14.00,
+      "receiver_count": 2,
+      "receiver_position": "both ends",
+      "grip_texture": "knurl diamond 0.8mm pitch",
+      "material": "316L Stainless",
+      "finish": "Brushed (Ra 0.4)"
+    },
+    "TH-002": {
+      "name": "Flat Handle",
+      "overall_length": 105.00,
+      "cross_section_width": 20.00,
+      "cross_section_height": 8.00,
+      "receiver_count": 1,
+      "receiver_position": "one end",
+      "corner_radius": 2.00,
+      "grip_texture": "matte blast",
+      "material": "316L Stainless",
+      "finish": "Bead-blasted (Ra 1.6)"
+    },
+    "TH-003": {
+      "name": "Round Handle",
+      "overall_length": 108.00,
+      "grip_diameter": 16.00,
+      "receiver_count": 1,
+      "receiver_position": "one end",
+      "grip_texture": "knurl straight 1.0mm pitch",
+      "material": "316L Stainless",
+      "finish": "Polished (Ra 0.2)"
+    }
+  },
+
+  "tolerances": {
+    "general_linear_0_6mm": 0.10,
+    "general_linear_6_30mm": 0.20,
+    "general_linear_30_120mm": 0.30,
+    "general_linear_120_400mm": 0.50,
+    "general_angular": 1.0,
+    "interface_tang_diameter": {"nominal": 10.00, "upper": 0.00, "lower": -0.02, "class": "h7"},
+    "interface_receiver_bore": {"nominal": 10.10, "upper": 0.03, "lower": 0.00, "class": "H7"},
+    "ball_detent_groove_position": {"nominal": 35.00, "tolerance": 0.05},
+    "ball_bore_position": {"nominal": 10.00, "tolerance": 0.05},
+    "concentricity_tang": 0.02,
+    "concentricity_receiver_bore": 0.03,
+    "perpendicularity_tang_root": 0.05,
+    "perpendicularity_receiver_mouth": 0.05,
+    "surface_profile_tang": 0.05,
+    "surface_profile_receiver": 0.08
+  }
+}

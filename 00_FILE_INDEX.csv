@@ -1,0 +1,137 @@
+relative_path,bytes,extension
+01_Project_Brief/01_TAYLKOMB_Final_Merged_PRD_v2.md,21142,.md
+01_Project_Brief/02_TAYLKOMB_Architecture_Overview_v2.md,5272,.md
+01_Project_Brief/03_TAYLKOMB_Ergonomic_Durability_Spec_v1.md,5928,.md
+01_Project_Brief/04_Superseded_Assumptions.md,1427,.md
+01_Project_Brief/05_Family_Revision_Matrix.csv,3221,.csv
+01_Project_Brief/06_Fit_Coupon_Plan_and_Handoff_Checklist.md,4109,.md
+01_Project_Brief/Force_Target_Resolution.md,2068,.md
+01_Project_Brief/taylkomb_corrected_architecture.svg,2465,.svg
+02_CAD_Source/A_CAD_Source/FreeCAD/TC_001_rebuild.py,1670,.py
+02_CAD_Source/A_CAD_Source/FreeCAD/TC_002_rebuild.py,1258,.py
+02_CAD_Source/A_CAD_Source/FreeCAD/TC_003_rebuild.py,1188,.py
+02_CAD_Source/A_CAD_Source/FreeCAD/TH_001_rebuild.py,1666,.py
+02_CAD_Source/A_CAD_Source/FreeCAD/TH_002_rebuild.py,1484,.py
+02_CAD_Source/A_CAD_Source/FreeCAD/TH_003_rebuild.py,1440,.py
+02_CAD_Source/A_CAD_Source/FreeCAD/TK_BTN_001_rebuild.py,1971,.py
+02_CAD_Source/A_CAD_Source/freecad_scripts/README_FreeCAD.md,1976,.md
+02_CAD_Source/A_CAD_Source/freecad_scripts/TK_RECV_001_freecad.py,5749,.py
+02_CAD_Source/A_CAD_Source/freecad_scripts/TK_TANG_001_freecad.py,6764,.py
+02_CAD_Source/A_CAD_Source/openscad/TC_001_main_comb.scad,3419,.scad
+02_CAD_Source/A_CAD_Source/openscad/TC_002_narrow_comb.scad,2192,.scad
+02_CAD_Source/A_CAD_Source/openscad/TC_003_wide_comb.scad,2217,.scad
+02_CAD_Source/A_CAD_Source/openscad/TH_001_double_handle.scad,2313,.scad
+02_CAD_Source/A_CAD_Source/openscad/TH_002_flat_handle.scad,2183,.scad
+02_CAD_Source/A_CAD_Source/openscad/TH_003_round_handle.scad,1725,.scad
+02_CAD_Source/A_CAD_Source/openscad/TK_button_detent.scad,1758,.scad
+02_CAD_Source/A_CAD_Source/openscad/TK_common.scad,7446,.scad
+02_CAD_Source/A_CAD_Source/openscad/TK_fit_coupons.scad,3815,.scad
+02_CAD_Source/A_CAD_Source/openscad/TK_receiver_core.scad,616,.scad
+02_CAD_Source/A_CAD_Source/openscad/TK_system_assembly.scad,1648,.scad
+02_CAD_Source/A_CAD_Source/openscad/TK_tang_passive.scad,589,.scad
+02_CAD_Source/A_CAD_Source/parameters.json,5835,.json
+02_CAD_Source/Alternate_CAD_Scripts/build123d/button_detent_module.py,5188,.py
+02_CAD_Source/Alternate_CAD_Scripts/build123d/comb_family_corrected.py,5935,.py
+02_CAD_Source/Alternate_CAD_Scripts/build123d/handle_family_corrected.py,5928,.py
+02_CAD_Source/Alternate_CAD_Scripts/build123d/main_comb_master_tang.py,5446,.py
+02_CAD_Source/Alternate_CAD_Scripts/build123d/shared_receiver_core.py,7441,.py
+02_CAD_Source/Alternate_CAD_Scripts/cadquery/button_detent_module.py,768,.py
+02_CAD_Source/Alternate_CAD_Scripts/cadquery/fit_coupon_male_tang.py,510,.py
+02_CAD_Source/Alternate_CAD_Scripts/cadquery/fit_coupon_receiver_nominal.py,733,.py
+02_CAD_Source/Alternate_CAD_Scripts/cadquery/fit_coupon_receiver_relief.py,731,.py
+02_CAD_Source/Alternate_CAD_Scripts/cadquery/main_comb_master_tang.py,1494,.py
+02_CAD_Source/Alternate_CAD_Scripts/cadquery/shared_receiver_core.py,1785,.py
+02_CAD_Source/Alternate_CAD_Scripts/openscad/TAYLKOMB_Lock_Corrected_v1.scad,17535,.scad
+02_CAD_Source/Alternate_CAD_Scripts/openscad/lock_stack_visual.scad,269,.scad
+02_CAD_Source/Alternate_CAD_Scripts/openscad/main_comb_tang_visual.scad,478,.scad
+02_CAD_Source/Alternate_CAD_Scripts/openscad/receiver_core_visual.scad,396,.scad
+02_CAD_Source/Alternate_CAD_Scripts/run_exports.sh,1944,.sh
+03_Reference_Geometry/B_Geometry/STEP_Converted/TC-001-Main-Comb.step,1877160,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TC-002-Narrow-Comb.step,1815467,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TC-003-Wide-Comb.step,1447692,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TH-001-Double-Handle.step,5923307,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TH-002-Flat-Handle.step,7297235,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TH-003-Round-Handle.step,7013843,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TK-ASM-001-System-Assembly.step,9631470,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TK-BTN-001.step,9099764,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TK-RECV-001.step,2285376,.step
+03_Reference_Geometry/B_Geometry/STEP_Converted/TK-TANG-001.step,9386892,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TC-001-Main-Comb.step,179263,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TC-002-Narrow-Comb.step,222145,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TC-003-Wide-Comb.step,118235,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TH-001-Double-Handle.step,147692,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TH-002-Flat-Handle.step,19753,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TH-003-Round-Handle.step,104364,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TK-BTN-001.step,147810,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TK-RECV-001.step,69710,.step
+03_Reference_Geometry/B_Geometry/STEP_Parametric/TK-TANG-001.step,29083,.step
+03_Reference_Geometry/B_Geometry/STL/TC-001-Main-Comb.stl,604955,.stl
+03_Reference_Geometry/B_Geometry/STL/TC-002-Narrow-Comb.stl,581809,.stl
+03_Reference_Geometry/B_Geometry/STL/TC-003-Wide-Comb.stl,468957,.stl
+03_Reference_Geometry/B_Geometry/STL/TH-001-Double-Handle.stl,1947550,.stl
+03_Reference_Geometry/B_Geometry/STL/TH-002-Flat-Handle.stl,2457069,.stl
+03_Reference_Geometry/B_Geometry/STL/TH-003-Round-Handle.stl,2366650,.stl
+03_Reference_Geometry/B_Geometry/STL/TK-ASM-001-System-Assembly.stl,3179520,.stl
+03_Reference_Geometry/B_Geometry/STL/TK-BTN-001.stl,3111637,.stl
+03_Reference_Geometry/B_Geometry/STL/TK-RECV-001.stl,762345,.stl
+03_Reference_Geometry/B_Geometry/STL/TK-TANG-001.stl,3158902,.stl
+03_Reference_Geometry/B_Geometry/glTF/TC-001-Main-Comb.gltf,520973,.gltf
+03_Reference_Geometry/B_Geometry/glTF/TC-002-Narrow-Comb.gltf,642752,.gltf
+03_Reference_Geometry/B_Geometry/glTF/TC-003-Wide-Comb.gltf,337156,.gltf
+03_Reference_Geometry/B_Geometry/glTF/TH-001-Double-Handle.gltf,371625,.gltf
+03_Reference_Geometry/B_Geometry/glTF/TH-002-Flat-Handle.gltf,68672,.gltf
+03_Reference_Geometry/B_Geometry/glTF/TH-003-Round-Handle.gltf,558800,.gltf
+03_Reference_Geometry/B_Geometry/glTF/TK-BTN-001.gltf,1699567,.gltf
+03_Reference_Geometry/B_Geometry/glTF/TK-RECV-001.gltf,254231,.gltf
+03_Reference_Geometry/B_Geometry/glTF/TK-TANG-001.gltf,1106444,.gltf
+04_Drawings/C_Drawings/PDF/DWG-001-Tang.pdf,4880,.pdf
+04_Drawings/C_Drawings/PDF/DWG-002-Receiver.pdf,5292,.pdf
+04_Drawings/C_Drawings/PDF/DWG-003-Button-Detent.pdf,3930,.pdf
+04_Drawings/C_Drawings/PDF/DWG-004-TC-001.pdf,3954,.pdf
+04_Drawings/C_Drawings/PDF/DWG-005-TC-002.pdf,3825,.pdf
+04_Drawings/C_Drawings/PDF/DWG-006-TC-003.pdf,3745,.pdf
+04_Drawings/C_Drawings/PDF/DWG-007-TH-001.pdf,3422,.pdf
+04_Drawings/C_Drawings/PDF/DWG-008-TH-002.pdf,3438,.pdf
+04_Drawings/C_Drawings/PDF/DWG-009-TH-003.pdf,3432,.pdf
+04_Drawings/C_Drawings/PDF/DWG-010-System-Assembly.pdf,3838,.pdf
+04_Drawings/C_Drawings/PDF/DWG-011-Interface-Detail.pdf,4558,.pdf
+05_Admin_and_Audit/README.md,6853,.md
+05_Admin_and_Audit/TK-GAP-ANALYSIS-RevB.md,18872,.md
+05_Admin_and_Audit/generate_drawings.py,50418,.py
+05_Admin_and_Audit/generate_specs.py,27138,.py
+05_Specs_and_Testing/D_Specifications/TK-HW-001-Hardware-BOM.pdf,6713,.pdf
+05_Specs_and_Testing/D_Specifications/TK-MAT-001-Material-Finish-Spec.pdf,6125,.pdf
+05_Specs_and_Testing/D_Specifications/TK-TOL-001-Tolerance-Stack-Up.pdf,5536,.pdf
+05_Specs_and_Testing/D_Specs/TK-ASM-001-Assembly-Sequence.pdf,6922,.pdf
+05_Specs_and_Testing/D_Specs/TK-CTF-001-Critical-Dimensions.pdf,5319,.pdf
+05_Specs_and_Testing/D_Specs/TK-EQUIP-001-Test-Equipment.pdf,7360,.pdf
+05_Specs_and_Testing/D_Specs/TK-FCAD-001-FreeCAD-Scripts.pdf,3666,.pdf
+05_Specs_and_Testing/D_Specs/TK-FIT-001-Test-Data-Forms.pdf,6981,.pdf
+05_Specs_and_Testing/D_Specs/TK-HW-002-Supplier-PartNumbers.pdf,5251,.pdf
+05_Specs_and_Testing/D_Specs/TK-INSP-001-Inspection-Plan.pdf,6365,.pdf
+05_Specs_and_Testing/D_Specs/TK-MAT-002-Material-Freeze.pdf,4501,.pdf
+05_Specs_and_Testing/D_Specs/TK-PF-001-PressFit-Spec.pdf,5474,.pdf
+05_Specs_and_Testing/D_Specs/TK-TEST-001-Chemical-Resistance.pdf,6077,.pdf
+05_Specs_and_Testing/D_Specs/TK-TEST-002-Heat-Resistance.pdf,5712,.pdf
+05_Specs_and_Testing/D_Specs/TK-TEST-003-UV-Resistance.pdf,6119,.pdf
+05_Specs_and_Testing/D_Specs/TK-WALL-001-Wall-Thickness.pdf,4510,.pdf
+05_Specs_and_Testing/E_Fit_Coupons/STL/TK-FIT-001-All-Coupons.stl,4825650,.stl
+05_Specs_and_Testing/Output_Plans/07_Output_Export_Plans_v2.md,2655,.md
+06_Concept_References/Black Combs.png,1996836,.png
+06_Concept_References/Comb render.mp4,3224082,.mp4
+06_Concept_References/Double Handle.pdf,174252,.pdf
+06_Concept_References/Flat Handle.pdf,135010,.pdf
+06_Concept_References/Main Comb.pdf,495309,.pdf
+06_Concept_References/Metal Attachments.png,1697946,.png
+06_Concept_References/Narrow Comb.pdf,321422,.pdf
+06_Concept_References/Round Comb Hande.pdf,149901,.pdf
+06_Concept_References/TAYLKOMB Manufacturing Readiness Checklist.pdf,131440,.pdf
+06_Concept_References/TAYLKOMB Production Drawing Strategy & CAD Reality Check.pdf,109115,.pdf
+06_Concept_References/TAYLKOMB_Detailed_Next_Steps.md,14001,.md
+06_Concept_References/TK-FIT-001_Fit_Coupon_Test_Protocol.md,15184,.md
+06_Concept_References/TK-HW-001_Hardware_BOM.md,9310,.md
+06_Concept_References/TK-MAT-001_Material_Finish_Spec.md,10254,.md
+06_Concept_References/TK-MFG-001_Manufacturing_Readiness_Assessment.md,12306,.md
+06_Concept_References/TK-TOL-001_Tolerance_Specification.md,8015,.md
+06_Concept_References/Wide Comb.pdf,216433,.pdf
+06_Concept_References/taylkomb_interface_cross_section 2.svg,38704,.svg
